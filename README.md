@@ -6,7 +6,7 @@ Bem-vindo ao repositório do Finans! Este projeto é uma página de demonstraç�
 
 O Finans é uma página estática que apresenta um design bonito e moderno, com foco na estética e na experiência do usuário. Enquanto o site não possui funcionalidades específicas de gerenciamento financeiro, ele serve como uma demonstração de como um site de finanças poderia parecer e se comportar.
 
-<img src="https://s1.ezgif.com/tmp/ezgif-1-3c20c7d938.gif" alt="Portfólio" width="500" heigh='400' style="border-radius: 10px;">
+![ezgif-6-060373fd66](https://github.com/Vaconer/Vaconer/assets/106969683/66cd7c09-9d68-4f20-9eed-07d85decc362)
 
 [Finans](https://vaconer.github.io/Finans/)
 
